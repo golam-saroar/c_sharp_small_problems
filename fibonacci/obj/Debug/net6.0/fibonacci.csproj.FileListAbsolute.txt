@@ -1,0 +1,15 @@
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/bin/Debug/net6.0/fibonacci
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/bin/Debug/net6.0/fibonacci.deps.json
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/bin/Debug/net6.0/fibonacci.runtimeconfig.json
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/bin/Debug/net6.0/fibonacci.dll
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/bin/Debug/net6.0/fibonacci.pdb
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/fibonacci.csproj.AssemblyReference.cache
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/fibonacci.AssemblyInfoInputs.cache
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/fibonacci.AssemblyInfo.cs
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/fibonacci.csproj.CoreCompileInputs.cache
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/fibonacci.dll
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/refint/fibonacci.dll
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/fibonacci.pdb
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/fibonacci.genruntimeconfig.cache
+/Users/abmsaroar/projects/dotnet/c_sharp_small_problems/fibonacci/obj/Debug/net6.0/ref/fibonacci.dll
